@@ -1,5 +1,2 @@
-user:
-   name: ss123
-management:
-  security:
-    enabled: false
+computer:
+  username: caochenlei
