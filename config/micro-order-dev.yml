@@ -1,5 +1,4 @@
-user:
-   name: ss123
+userName: ss123
 management:
   security:
     enabled: false
